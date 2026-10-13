@@ -68,4 +68,4 @@ cd sokoban
 2. Escribe el siguiente comando para poder jugar Sokoban en la terminal:
 
 ```bash
-python sokoban.py
+python3 sokoban.py
